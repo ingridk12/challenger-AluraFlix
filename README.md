@@ -28,7 +28,4 @@ AluraFlix es un Reto del programa de Oracle Next Education y Alura Latan. El cua
 - Formik
 - Material UI
 - Axios
-- X Data Grid
-## Autores
-| [<img src="https://www.github.com/zidjian.png" width=115><br><sub>Waldir Maidana </sub>](https://github.com/zidjian) |
-| :---: |
+  
